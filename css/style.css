@@ -1,0 +1,553 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,600,700,800&display=swap');
+
+body{
+	font-family: Montserrat !important;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+
+.list h5{
+	margin:0;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.coffee .card-header{
+  padding: 0;
+}
+
+
+.card.menu{
+	background-size:cover;
+	background-position: center;
+	background-repeat:no-repeat;
+	color:#fff;
+	text-align:center;
+}
+
+
+
+.overlay{
+	background-color:rgba(0,0,0,0.70)
+}
+
+.menu .card-content{
+	padding:35px 0;
+}
+
+.menu h4{
+	margin:0;
+	font-size:20px;
+}
+
+.menu p{
+	margin:0;
+	font-size:12px;
+}
+
+.menu a{
+	color:#fff;
+}
+
+
+.bg-espresso{
+	background-image: url(../img/bg-coffee.jpg)
+}
+
+.bg-cookies{
+	background-image: url(../img/bg-cookies.jpg)
+}
+
+.bg-lunch{
+	background-image: url(../img/bg-lunch.jpg)
+}
+
+
+.menus .card-content{
+	padding:10px;
+	text-align:center;
+}
+
+.menus h3{
+	font-size: 16px;
+	color:#2D2D2D;
+	margin-bottom: 0;
+
+}
+
+.menus p{
+	font-size:12px;
+	color:#0C9F3C;
+	font-weight:600;
+}
+
+.product{
+	color:#2d2d2d;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+
+.price{
+	color:#0C9F3C;
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.button-green{
+	background-color: #0C9F3C !important;
+}
+
+
+
+
+
+.block-title{
+	text-align: center;
+	
+}
+
+
+.overlay-morado{
+	background-color:rgba(102,51,153,0.65);
+	padding:30px!important;
+}
+
+.bg-bdias{
+	background-image:url( ../img/matt-artz-353129-unsplash.jpg)}
+
+
+.doggo{
+	border-radius:100%;
+	width:200px;
+	margin-left: 20%;
+	position:relative;
+	bottom: 50px;
+}
+
+.bobby{
+	text-align: center;
+	
+}
+
+.tres{
+	background-color: #ff6600;
+	color:white;
+	font-size:30px;
+	font-weight: 500;
+	text-align: center;
+	display:block;
+}
+
+.tres span{
+	font-size: 25px;
+	display:block;
+}
+
+
+.medallas{
+	background-color: #EFEFEF;
+	color:#ff6600;
+	font-size:30px;
+	font-weight: 500;
+	text-align: center;
+	display:block;
+	
+}
+
+.medallas span{
+	font-size: 25px;
+	display:block;
+	
+}
+
+.perfil{
+	border-radius:50%;
+	width:100px;}
+	
+.nombre{
+	font-size: 16px;
+	font-weight: bolder;
+}
+
+.nombre-calendario{
+	font-size: 16px;
+	font-weight: bolder;
+	margin-top:0;
+	
+}
+
+.logo-home{
+	margin-top: 30px;
+}
+
+.text-home{
+	text-align: center;
+	font-size: 17px;
+	margin-top: 20px;
+}
+
+.text-home-1{
+	font-size: 12px;
+}
+
+
+
+.lugar{
+	font-size: 12px;
+}
+
+.borde-claro{
+	border-left: 7px solid #FFC600;
+	padding-left: 10px;
+}
+
+.borde-azul{
+	border-left: 7px  solid #00ABFF;
+	padding-left: 10px;
+	
+}
+
+.borde-oscuro{
+	border-left: 7px solid #ff6600;
+	padding-left: 10px;}
+
+
+.numeros{
+	margin-bottom: 20px;
+	
+}
+
+.bottom{
+	margin-bottom:10px !important;
+}
+
+.logo{
+	width:100px;
+}
+
+.bg-calendario{
+	background-image: url(../img/calendario-13.jpg)
+}
+
+
+.doggo2{
+	border-radius:100%;
+	width:150px;
+	margin-left: 25%;
+	position:relative;
+	margin-top:-120px;
+	margin-bottom: 0px;
+}
+
+.navbar{
+	background-color:dodgerblue !important;
+}
+
+.icono-calendario{
+	width:60%!important;
+}
+
+.clima-calendario{
+	background-color: #663399;
+}
+
+.add-button{
+	color: #ff6600;
+	text-align: center;
+}
+
+.btn{
+	background-color: #ff6600;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	padding: 13px;
+  margin-top: 30px;
+	margin-bottom: 20px;
+	
+}
+
+.btn-block{
+	border-radius: 50px;
+}
+
+
+.btn i{
+	color: white;
+	font-size: 40px;
+}
+
+.dog-home img{
+	margin-top: 30px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+
+.calendario-bottom{
+	width: 40px !important;
+	margin: 0 10px;
+
+}
+
+.clima-calendario{
+	background-color: hsla(270,49%,62%,0.97);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.textbottom-calendar{
+	color:white;
+	border-right: 2px solid #fff;
+	
+}
+
+.textbottom-calendar h5{
+	font-size: 16px;
+}
+
+.textbottom-calendar p{
+	font-size: 12px;
+}
+
+.textbottom-calendar span{
+	font-size: 12px;
+	font-weight: 100;
+}
+
+.circle{
+	width:50px;
+	height: 50px;
+	background-color: rgba(255,255,255,0.78);
+	border-radius: 50%;
+}
+
+ login-screen-content{
+	background-color: #ff6600 !important;
+}
+
+
+.logo-intro{
+	width:400px;
+	margin: 20px auto;
+}
+
+
+.purplebut{
+	background-color: #663399 !important;
+}
+
+
+.calendario-topreloj{
+	margin-top: 10px;
+
+
+}
+
+.topborder1{
+	margin-top:10px;
+}
+
+.dogoslide{
+	width:100px;
+	height:100px;
+	margin:0 auto;
+	border-radius: 100%;
+}
+
+.fondo-apadrina{
+	background-image: url( ../img/fondo-adoptar-100.jpg);
+	background-size:contain;
+	margin-top:20px;
+}
+
+.fondo-apadrina{
+	background-image: url( ../img/fondo-adoptar-100.jpg);
+	background-size:contain;
+	margin-top:20px;
+}
+
+
+.fondo-team{
+	background-image: url( ../img/fondo-morado.png);
+	background-size:contain;
+	margin-top:20px;
+}
+
+
+
+
+.logo-adoptar{
+	width:200px;
+	margin: 0 auto;
+}
+
+.dinero{
+	color:white !important;
+}
+
+.title-apadrina{
+	color:white!important;
+	font-size:20px;
+	font-weight:500; 
+}
+
+.swiper-pagination-bullets{
+	color: #663399 !important;
+	
+}
+
+.md .swiper-pagination-bullet-active{
+	background: #FF6600 !important;
+	
+}
+	
+.money-slide{
+	color:white!important;
+}
+
+.md .block-title{
+	color:white;
+}
+
+.range-bar-active{
+	background: #FF6600 !important;
+	
+}
+
+
+.range-knob{
+	color: #FF6600 !important;
+}
+
+.range-knob::after{
+	color: #FF6600 !important;
+	
+}
+
+.textos-about{
+	text-align: center!important;
+	color:white!important;
+	font-weight: 300;
+	margin-bottom: 5px;
+}
+
+.textos-morados{
+	text-align: center!important;
+	color:#663399!important;
+	font-weight: 300;
+	margin-bottom: 5px;
+	background-color: white;
+	margin: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-size: 12px;
+}
+
+
+
+/*style Vels*/
+
+.johnson{
+	width:50px;
+	border-radius:100%;
+}
+
+.blue1{
+color:dodgerblue;
+
+}
+
+.trending-artist{
+	border-radius:100%;
+ 
+}
+
+.nombre1{
+	font-size: 10px;
+	text-align: center;
+}
+
+.blue1 span{
+	color:black;
+}
+
+.swiper-pagination-bullets{
+	color:dodgerblue !important;
+	
+}
+
+.md .swiper-pagination-bullet-active{
+	background:dodgerblue !important;
+	
+}
+
+
+/*style artist*/
+
+.product{
+	font-size: 16px;
+	color: #2d2d2d;
+	font-weight: 600;
+}
+
+.price{
+	font-size: 16px;
+	color: #0C9F67;
+	font-weight: 600;
+}
+.button-green{
+	background-color: #0C9F67;
+}
+
+.despressos{
+	width:100px;
+}
+
+.verde{
+	color:#0C9F67;
+	font-size: 14px;
+}
+.heart{
+	color: #2d2d2d;
+	font-size: 14px;
+}
+
+.heart i{
+	font-size:14px;
+	margin-right:4px;
+}
+
+.artista-pg{
+	width:100px !important;
+	border-radius:100%;
+}
+
+.texto-header3{
+	font-size: 12px;
+}
+
+.heart-fav{
+	color:dodgerblue;
+	border-color:dodgerblue;
+}
+
+.radio{
+	width:50px;
+	border-radius: 100%;
+
+}
+	
+
