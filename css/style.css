@@ -535,6 +535,13 @@ color:dodgerblue;
 	border-radius:100%;
 }
 
+.artista-pg2{
+	width:50px !important;
+	border-radius:100%;
+	margin-left: 5px;
+	margin-top: 20px;
+}
+
 .texto-header3{
 	font-size: 12px;
 }
@@ -580,3 +587,7 @@ color:dodgerblue;
 
 .swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
 	margin: -10px 4px;}
+
+.coco{
+	margin-top: 30px!important;
+}
