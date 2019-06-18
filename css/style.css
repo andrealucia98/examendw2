@@ -363,8 +363,8 @@ h1,h2,h3,h4,h5,h6{
 .dogoslide{
 	width:100px;
 	height:100px;
-	margin:0 auto;
 	border-radius: 100%;
+	margin:0 auto;
 }
 
 .fondo-apadrina{
@@ -446,7 +446,7 @@ h1,h2,h3,h4,h5,h6{
 
 .textos-morados{
 	text-align: center!important;
-	color:#663399!important;
+	color:dodgerblue !important;
 	font-weight: 300;
 	margin-bottom: 5px;
 	background-color: white;
@@ -550,4 +550,33 @@ color:dodgerblue;
 
 }
 	
+.radiotextos{
+	color:#5E5E5E;
+	font-size: 12px;
+}
 
+.titulosradio{
+	color:black;
+	font-weight: bolder;
+}
+
+.radioimages{
+	border-radius: 20% !important;
+	width:100px !important;
+	
+}
+
+.textprofile{
+	text-align: center;
+}
+
+.textprofile2{
+	text-align: justify;
+}
+
+.swiper-pagination swiper-pagination-bullets{
+	margin-top: 70px;
+}
+
+.swiper-container-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet {
+	margin: -10px 4px;}
